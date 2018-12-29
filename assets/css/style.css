@@ -1,0 +1,23 @@
+html {
+    background-image: url("../images/red.jpg");
+    height: auto;
+    /* background-color: black; */
+}    
+
+
+* {
+	box-sizing: border-box;
+}
+
+.header {
+    background-color: aqua;
+    width: 50%;
+}
+
+.instructions {
+    background-color: beige;
+    width: auto;
+    height: auto;
+	max-width: 960px;
+	
+}
